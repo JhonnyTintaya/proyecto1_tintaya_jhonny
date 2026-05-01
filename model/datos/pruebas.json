@@ -1,0 +1,6 @@
+[
+  {"id": 1, "op": "AND", "val_a": 10, "val_b": 7, "esperado": 2},
+  {"id": 2, "op": "OR", "val_a": 10, "val_b": 7, "esperado": 15},
+  {"id": 3, "op": "XOR", "val_a": 5, "val_b": 3, "esperado": 6},
+  {"id": 4, "op": "NOT", "val_a": 1, "val_b": null, "esperado": -2}
+]
